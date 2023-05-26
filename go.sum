@@ -592,6 +592,8 @@ github.com/vinyldns/go-vinyldns v0.0.0-20200917153823-148a5f6b8f14/go.mod h1:RWc
 github.com/vultr/govultr/v2 v2.0.0/go.mod h1:2PsEeg+gs3p/Fo5Pw8F9mv+DUBEOlrNZ8GmCTGmhOhs=
 github.com/whioue/common v0.0.0-20230525162115-af62b5afc9cc h1:lNlhnZo0ruIro+O/YnxlwXS8WXnNvKjcxmgXrmuML24=
 github.com/whioue/common v0.0.0-20230525162115-af62b5afc9cc/go.mod h1:h2p2zGUJ58GN36QQx9rGp2wdpWmjNzONHAeYSfWxHd4=
+github.com/whioue/common v0.0.0-20230526084437-7a8407b6dadd h1:d8ZPYiNtBxDvTYdTgYvvOhikcP1LPlm+REGTOhJzOwE=
+github.com/whioue/common v0.0.0-20230526084437-7a8407b6dadd/go.mod h1:h2p2zGUJ58GN36QQx9rGp2wdpWmjNzONHAeYSfWxHd4=
 github.com/xanzy/ssh-agent v0.3.0/go.mod h1:3s9xbODqPuuhK9JV1R321M/FlMZSBvE5aY6eAcqrDh0=
 github.com/xeipuuv/gojsonpointer v0.0.0-20180127040702-4e3ac2762d5f/go.mod h1:N2zxlSyiKSe5eX1tZViRH5QA0qijqEDrYZiPEAiq3wU=
 github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415/go.mod h1:GwrjFmJcFw6At/Gs6z4yjiIwzuJ1/+UwLxMQDVQXShQ=

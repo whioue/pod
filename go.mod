@@ -1,4 +1,4 @@
-module git.imooc.com/coding-535/pod
+module github.com/whioue/pod
 
 go 1.16
 
@@ -10,7 +10,7 @@ require (
 	github.com/asim/go-micro/v3 v3.7.0
 	github.com/jinzhu/gorm v1.9.16
 	github.com/opentracing/opentracing-go v1.2.0
-	github.com/whioue/common v0.0.0-20230525162115-af62b5afc9cc // indirect
+	github.com/whioue/common v0.0.0-20230526084437-7a8407b6dadd // indirect
 	google.golang.org/protobuf v1.26.0
 	k8s.io/api v0.22.4
 	k8s.io/apimachinery v0.22.4
